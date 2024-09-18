@@ -14,7 +14,7 @@
         }
       }
     },
-    "surface-secodary": {
+    "surface-secondary": {
       "$type": "color",
       "$value": "{color.gray.400}",
       "$description": "",
@@ -44,7 +44,7 @@
     },
     "surface-brand": {
       "$type": "color",
-      "$value": "{color.brand.pear}",
+      "$value": "{color.brand.watermelon}",
       "$description": "",
       "$extensions": {
         "com.figma": {

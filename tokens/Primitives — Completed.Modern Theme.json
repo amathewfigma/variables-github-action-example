@@ -3,7 +3,7 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#ee0d0d",
+        "$value": "#f1f1f1",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -89,7 +89,7 @@
     "brand": {
       "watermelon": {
         "$type": "color",
-        "$value": "#008361",
+        "$value": "#7db8a9",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -103,7 +103,7 @@
       },
       "cherry": {
         "$type": "color",
-        "$value": "#e0132e",
+        "$value": "#ff9eab",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -117,7 +117,7 @@
       },
       "pear": {
         "$type": "color",
-        "$value": "#a2b623",
+        "$value": "#def358",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -131,7 +131,7 @@
       },
       "mushroom": {
         "$type": "color",
-        "$value": "#b3921d",
+        "$value": "#f1d367",
         "$description": "",
         "$extensions": {
           "com.figma": {
