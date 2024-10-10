@@ -3,7 +3,7 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#8116f2",
+        "$value": "#c2a7de",
         "$description": "",
         "$extensions": {
           "com.figma": {
