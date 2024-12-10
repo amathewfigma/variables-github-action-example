@@ -2,7 +2,7 @@
   "surface": {
     "surface-primary": {
       "$type": "color",
-      "$value": "{color.gray.50}",
+      "$value": "{color.brand.radish}",
       "$description": "",
       "$extensions": {
         "com.figma": {
