@@ -2,7 +2,7 @@
   "surface": {
     "surface-primary": {
       "$type": "color",
-      "$value": "{color.brand.radish}",
+      "$value": "#0b5a46",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -16,7 +16,7 @@
     },
     "surface-secondary": {
       "$type": "color",
-      "$value": "{color.gray.800}",
+      "$value": "{text.text-invert}",
       "$description": "",
       "$extensions": {
         "com.figma": {
