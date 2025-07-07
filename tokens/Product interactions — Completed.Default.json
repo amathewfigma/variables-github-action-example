@@ -1,7 +1,7 @@
 {
-  "Amount available": {
-    "$type": "number",
-    "$value": 4,
+  "Is Available": {
+    "$type": "boolean",
+    "$value": true,
     "$description": "",
     "$extensions": {
       "com.figma": {
@@ -13,9 +13,9 @@
       }
     }
   },
-  "Is Available": {
-    "$type": "boolean",
-    "$value": true,
+  "Amount available": {
+    "$type": "number",
+    "$value": 4,
     "$description": "",
     "$extensions": {
       "com.figma": {
