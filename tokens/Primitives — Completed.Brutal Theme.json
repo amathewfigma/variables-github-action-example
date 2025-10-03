@@ -11,7 +11,9 @@
             "scopes": [
               "ALL_SCOPES"
             ],
-            "codeSyntax": {}
+            "codeSyntax": {
+              "WEB": "color/gray/50"
+            }
           }
         }
       },
